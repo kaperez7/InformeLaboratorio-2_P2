@@ -3,7 +3,12 @@
 
 1. OBJETIVOS
 
+Comprobar experimentalmente el Teorema de Thévenin en un circuito resistivo, mediante el calculo y medicion de circuitos armados con el sofware tinkercad, para comporar el valor de la corriente y del voltaje.
 
+Objetivos específicos.
+
+* Calcular y comparar los valores de un circuito de Thévenin de forma analítica y experimental.
+* Aplicar las Leyes de Kirchhoff y el Teorema de superposición para analizar y reducir un circuito a un circuito de Thévenin.
 
 
 2. MARCO TEÓRICO 
@@ -48,7 +53,9 @@ https://youtu.be/z0jT9jJvBB0
 
 6. CONCLUSIONES
 
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+* Se comprueba experimentalmente el Teorema de Thévenin al medir el voltaje en R5= 1k Ohm en el circuito original y al medir el voltaje en los terminales del circuito de Thévenin, siendo los voltajes 3.89 V y 3.88 V, respectivamente.
+* Cuando se desconecta la carga, midiendo la resistencia y voltaje de Thévenin, siendo estas 299 Ohms y 5.06 V respectivamente y calculando con la teoría los valores del voltaje3.89 V y corriente 3.89 mA en la resistencia 5 se obtienen que son iguales a los medidos experimentalmente.
+* Al comparar los valores obtenidos forma analítica y experimental, obtenemos errores menores al 1 % los cuales se asocian a la aproximación de los intrumentos de medición, por lo que, un circuito de dos terminales es equivalente al circuito de Thévenin
 
 
 7. BIBLIOGRAFÍA
