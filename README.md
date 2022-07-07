@@ -59,7 +59,9 @@ Objetivos específicos.
 
 ![image](https://user-images.githubusercontent.com/105570939/177739088-2bc36fca-6f0e-473c-a841-5c3c1b7ef616.png)
 
+![image](https://user-images.githubusercontent.com/105570939/177741500-5e654f42-1fff-46dd-b52e-80a5ff861649.png)
 
+Al calcular el error de las diferentes medidas me puedo dar cuenta que en algunos calculos no existe error y en los que si llegan a presentar error es muy pequeño por lo que se puede decir que el mètodo es efectivo para el calculo de estos valores. 
 
 5. VIDEO
 
