@@ -8,6 +8,11 @@
 
 2. MARCO TEÓRICO 
 
+![image](https://user-images.githubusercontent.com/105679480/177684188-690af6ec-d178-4e71-89d8-2c593f4b95f3.png)
+![image](https://user-images.githubusercontent.com/105679480/177684260-528428a5-c0b4-47a6-a0cb-44c5de2c647a.png)
+![image](https://user-images.githubusercontent.com/105679480/177684307-359bcdb2-46b8-477c-b24a-98a8a9c74209.png)
+![image](https://user-images.githubusercontent.com/105679480/177684341-15149311-de88-4f79-bab7-194d47443665.png)
+
 
 
 
@@ -47,8 +52,11 @@ Se estable las conclusiones de cada asunto investigado, implicaciones para la te
 
 7. BIBLIOGRAFÍA
 
-Emplear normas APA para el informe e IEEE para el artículo
+C. (2021b, diciembre 17). Teorema de Thevenin – Análisis de circuitos eléctricos. dademuchconnection. Recuperado 5 de julio de 2022, de https://dademuch.com/2019/11/10/teorema-de-thevenin-analisis-de-circuitos-electricos/
 
+Teorema de Thevenin y de Norton Para Resolver Circuitos Aprende Facil. (s. f.). Areatecnologia. Recuperado 5 de julio de 2022, de https://www.areatecnologia.com/electricidad/teorema-de-thevenin-y-norton.html
+
+Teorema de Thevenin - Explicado con ejercicios resueltos. (2021, 23 enero). Mi Universo Electrónico. Recuperado 5 de julio de 2022, de https://miuniversoelectronico.com/el-teorema-de-thevenin/
 
 RUBRICA
 
