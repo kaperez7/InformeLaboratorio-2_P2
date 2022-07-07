@@ -18,22 +18,25 @@
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-En este punto se debe explicar cómo funcionan la implementación del circuito y los cálculos de respaldo.
+![image](https://user-images.githubusercontent.com/105570939/177705268-2b08cab9-db23-44d4-b347-1773d3ecd629.png)
 
-Los diagramas hacen referencia a una representación visual de lo que se ha desarrollado enfocado al software y al hardware. Los diagramas son:
-* Diagramas de bloques.
-* Diagramas UML. (casos de uso-clase)
-* Diagramas eléctricos.
-* Diagramas esquemáticos.
+**Mida el voltaje y la corriente en el resistor R5.**
 
-Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicación de los circuitos.
+![image](https://user-images.githubusercontent.com/105570939/177708925-e1bfb167-80f0-4cb5-ac3c-bbab6b29af4b.png)
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+**Desconecte el resistor R5 y mida el voltaje en el circuito abierto.**
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama2.jpg)
+![image](https://user-images.githubusercontent.com/105570939/177709720-3112db12-909d-4370-910b-6d7dee94b5a6.png)
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama4.jpg)
+**Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente.**
 
+![image](https://user-images.githubusercontent.com/105570939/177710112-0b5746cf-8f55-4f8d-a725-3b3aec7cf20c.png)
+
+**Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo.**
+
+![image](https://user-images.githubusercontent.com/105570939/177716411-b73eeca4-7932-41ed-bb7c-3452a0051606.png)
+
+![image](https://user-images.githubusercontent.com/105570939/177709117-bde1ef2f-d871-4f8b-af05-590f959319f3.png)
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
