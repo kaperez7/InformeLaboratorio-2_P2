@@ -69,8 +69,8 @@ https://youtu.be/z0jT9jJvBB0
 
 6. CONCLUSIONES
 
-* Se comprueba experimentalmente el Teorema de Thévenin al medir el voltaje en R5= 1k Ohm en el circuito original y al medir el voltaje en los terminales del circuito de Thévenin, siendo los voltajes 3.89 V y 3.88 V, respectivamente.
-* Cuando se desconecta la carga, midiendo la resistencia y voltaje de Thévenin, siendo estas 299 Ohms y 5.06 V respectivamente y calculando con la teoría los valores del voltaje3.89 V y corriente 3.89 mA en la resistencia 5 se obtienen que son iguales a los medidos experimentalmente.
+* Se comprueba experimentalmente el Teorema de Thévenin al medir el voltaje en R5= 1k Ohm en el circuito original y al medir el voltaje en los terminales del circuito de Thévenin, siendo los voltajes 3.35 V y 3.35 V, respectivamente.
+* Cuando se desconecta la carga, midiendo la resistencia y voltaje de Thévenin, siendo estas 299 Ohms y 4.35 V respectivamente y calculando con la teoría los valores del voltaje 4.51 V y corriente 3.47 mA en la resistencia 5 se obtienen que son iguales a los medidos experimentalmente.
 * Al comparar los valores obtenidos forma analítica y experimental, obtenemos errores menores al 1 % los cuales se asocian a la aproximación de los intrumentos de medición, por lo que, un circuito de dos terminales es equivalente al circuito de Thévenin
 
 
