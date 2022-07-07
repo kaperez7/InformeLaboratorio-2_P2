@@ -43,6 +43,8 @@ Objetivos específicos.
 
 ![image](https://user-images.githubusercontent.com/105570939/177709117-bde1ef2f-d871-4f8b-af05-590f959319f3.png)
 
+![WhatsApp Image 2022-07-07 at 7 35 16 AM](https://user-images.githubusercontent.com/105570939/177774956-7694e0fc-c3e1-4ca5-8380-a8440e921172.jpeg)
+
 **Calculos.**
 
 ![image](https://user-images.githubusercontent.com/105570939/177739334-4eb19e57-c894-4886-9e54-86cfba3aeae6.png)
