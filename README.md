@@ -43,9 +43,23 @@ Objetivos específicos.
 
 ![image](https://user-images.githubusercontent.com/105570939/177709117-bde1ef2f-d871-4f8b-af05-590f959319f3.png)
 
+**Calculos.**
+
+![image](https://user-images.githubusercontent.com/105570939/177739334-4eb19e57-c894-4886-9e54-86cfba3aeae6.png)
+
+![image](https://user-images.githubusercontent.com/105570939/177739403-9145114c-77d7-4be4-820c-0b859c9355b0.png)
+
+![image](https://user-images.githubusercontent.com/105570939/177739515-9eecf820-ff95-452e-af26-d119f10f8b45.png)
+
+![image](https://user-images.githubusercontent.com/105570939/177739554-8cf55dc1-d3e7-4d3f-bc5a-1489fb719c69.png)
+
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-En este punto se contestará todo lo planteado en las guías.
+![image](https://user-images.githubusercontent.com/105570939/177739037-b5702176-8124-47ec-8667-23390e8d4ae6.png)
+
+![image](https://user-images.githubusercontent.com/105570939/177739088-2bc36fca-6f0e-473c-a841-5c3c1b7ef616.png)
+
+
 
 5. VIDEO
 
