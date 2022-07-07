@@ -9,7 +9,7 @@ Objetivos específicos.
 
 * Calcular y comparar los valores de un circuito de Thévenin de forma analítica y experimental.
 * Aplicar las Leyes de Kirchhoff y el Teorema de superposición para analizar y reducir un circuito a un circuito de Thévenin.
-
+* calcular el error entre el valor medido y el calculado.
 
 2. MARCO TEÓRICO 
 
